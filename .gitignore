@@ -27,4 +27,4 @@ build/Release
 node_modules
 
 #key
-./utils/key.js
+utils/key.js
