@@ -12,12 +12,13 @@ See <a href='http://developer.mixmax.com/docs/overview-slash-commands#tutorial-b
 1. Install using `npm install`
 2. Create a .env file with the following:
 
-```
-  MASHAPE_KEY={your-trail-api-mashape-key}
-  GOOGLE_MAPS_KEY={your-trail-api-google-key}
-```
+  ```
+    MASHAPE_KEY={your-trail-api-mashape-key}
+    GOOGLE_MAPS_KEY={your-trail-api-google-key}
+  ```
 
 3. Run using `npm start`
+
 
 To simulate locally how Mixmax calls the typeahead URL (to return a JSON list of typeahead results), run:
 
