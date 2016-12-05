@@ -1,7 +1,8 @@
 ##  Slash Command for Mixmax
 
-This is an open source Mixmax Slash Command. See <http://sdk.mixmax.com/docs/tutorial-giphy-slash-command> for more information.
+This is an open source Mixmax Slash Command that uses <https://market.mashape.com/trailapi/trailapi>[Trail API] and <https://developers.google.com/maps/documentation/static-maps/>[Google Static Maps API]
 
+See <http://sdk.mixmax.com/docs/tutorial-giphy-slash-command> for more information.
 
 
 ## Running locally
