@@ -1,11 +1,18 @@
-# Giphy Slash Command for Mixmax
+##  Slash Command for Mixmax
 
-This is an open source Mixmax Slash Command. See <http://sdk.mixmax.com/docs/tutorial-giphy-slash-command> for more information about how to use this example code in Mixmax.
+This is an open source Mixmax Slash Command. See <http://sdk.mixmax.com/docs/tutorial-giphy-slash-command> for more information.
+
+
 
 ## Running locally
 
 1. Install using `npm install`
-2. Run using `npm start`
+2. Create a .env file with the following:
+  `
+    MASHAPE_KEY={your-trail-api-mashape-key}
+    GOOGLE_MAPS_KEY={your-trail-api-google-key}
+  `
+3. Run using `npm start`
 
 To simulate locally how Mixmax calls the typeahead URL (to return a JSON list of typeahead results), run:
 

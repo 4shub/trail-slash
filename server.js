@@ -1,8 +1,9 @@
-var express = require('express');
-var bodyParser = require('body-parser');
-var app = express();
-var sync = require('synchronize');
-var cors = require('cors');
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
+const sync = require('synchronize');
+const cors = require('cors');
+const dotenv = require('dotenv').load();
 
 // Use fibers in all routes so we can use sync.await() to make async code easier to work with.
 app.use(function(req, res, next) {
