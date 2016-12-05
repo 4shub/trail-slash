@@ -1,6 +1,8 @@
-##  Slash Command for Mixmax
+<img src='./assets/whatitdoes.gif' style='max-width:400px'>
 
-This is an open source <a href='https://mixmax.com'>Mixmax</a> Slash Command that uses <a href='https://market.mashape.com/trailapi/trailapi'>Trail API</a> and <a href='https://developers.google.com/maps/documentation/static-maps/'>Google Static Maps API</a>
+##  Outdoor Activities For Email
+
+This is a fun little open source <a href='https://mixmax.com'>Mixmax</a> Slash Command that uses <a href='https://market.mashape.com/trailapi/trailapi'>Trail API</a> and <a href='https://developers.google.com/maps/documentation/static-maps/'>Google Static Maps API</a>
 
 See <a href='http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-mygiphy'>Mixmax API documentation</a> for more information.
 
